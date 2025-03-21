@@ -2,8 +2,10 @@
 ## Description
 Customer churn prediction is a machine learning project aimed at identifying customers who are likely to stop using a service. This project analyzes customer behavior patterns and helps businesses take proactive measures to retain their customers.
 
-## Features
+## Abuout Dataset
 The dataset consists of customer details, transaction history, and service usage.
+The dataset used in this project is sourced from Kaggle:
+[![Bank Customer Churn Prediction Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)  
 
 Features include:\
 **CustomerId:** Unique identifier for a customer\
